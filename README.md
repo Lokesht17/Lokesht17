@@ -29,7 +29,8 @@ Skills: JAVA,PYTHON,MYSQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesht17)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokesht17&show_icons=true&count_private=true)  
+![GitHub stats](https://img.shields.io/github/languages/top/Lokesht17/Lokesht17?theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
   
 
