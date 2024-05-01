@@ -11,7 +11,7 @@ As a student, learning is my top priority. Here's what I'm currently focusing on
 🚴When I'm not hitting the books, you'll catch me Revving engines and wind in my hair, I'm all about bikes, cars, and the thrill of the ride.
 
 
-Skills: JAVA,PYTHON,MYSQL
+Skills: JAVA,PYTHON
 
 - 🔭 I’m currently working on projects related to Data Science and Machine Learning. 
 - 🌱 I’m currently learning advanced techniques in Data Science and Machine Learning. 
@@ -28,8 +28,6 @@ Skills: JAVA,PYTHON,MYSQL
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesht17)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://img.shields.io/github/languages/top/Lokesht17/Lokesht17?theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
   
