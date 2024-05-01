@@ -4,7 +4,7 @@
 
 As a student, learning is my top priority. Here's what I'm currently focusing on:
 
-- Learning Python,MYSQL, and Java at a basic level.
+- Learning Python and Java at a basic level.
 - Exploring the fundamentals of AI, Machine Learning, and Data Science.
 - Aspiring to become an AI/ML/Data Scientist in the future.
 
@@ -17,7 +17,7 @@ Skills: JAVA,PYTHON,MYSQL
 - 🌱 I’m currently learning advanced techniques in Data Science and Machine Learning. 
 - 👯 I’m looking to collaborate on  projects related to:  - Data Science - Machine Learning - AI Development  - Open Source Projects.  If you're working on something interesting and think I could contribute, feel free to reach out to me! Let's collaborate and create something amazing together. 
 - 🤔 I’m looking for help with the fundamentals of AI, Machine Learning and Data Science. 
-- 💬 Ask me about java , python and mysql 
+- 💬 Ask me about java and python
 - 📫 How to reach me: lokesht26022004@gmail.com 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact:  I'm a master of efficiency, often finding shortcuts to get things done quickly. 
@@ -36,4 +36,4 @@ Skills: JAVA,PYTHON,MYSQL
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Lokesht17)
+
